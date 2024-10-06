@@ -11,7 +11,6 @@ I'm a **Ph.D. researcher** and **Data Scientist** passionate about solving compl
 
 ### 🌍 Find Me Around
 - 💼 [LinkedIn](https://www.linkedin.com/in/cezarsas)
-- 👨‍💻 [GitHub](https://github.com/SasCezar)
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=XTTwzgwAAAAJ)
 
 ---
