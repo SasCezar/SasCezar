@@ -1,18 +1,19 @@
-## 👋 Hi, I'm Cezar Sas!
+# 👋 Hi, I'm Cezar Sas
 
-I'm a **Ph.D. researcher** and **Data Scientist** passionate about solving complex problems with Machine Learning and AI.
+I’m a PhD researcher in **AI for Software Engineering**, with a focus on applied **Machine Learning**, **Natural Language Processing**, and intelligent systems for analyzing code and technical content.
 
-- 🛠️ Working on projects that blend **ML**, **NLP**, and **software classification**.
-- 💡 Developing innovative solutions to improve **software project classification** and developer productivity.
-- 📚 Active contributor to research in **Machine Learning** for **Software Engineering** and **NLP**.
-- 🤝 Enjoy collaborating with others and supporting their growth in **Data Science** and **AI**.
+🧠 My research combined **language models** and **graph neural networks** for tasks such as software classification, semantic parsing, and multilingual information extraction.
 
----
+🚀 I’m currently deepening my applied skills in **retrieval-augmented generation (RAG)** and **agent-based LLM systems**, and expanding into **production-oriented ML system design**. I'm building modular, reproducible pipelines using tools like **ZenML**, **Docker**, and **LangGraph** — turning prior knowledge into practical, system-oriented design.
 
-### 🌍 Find Me Around
-- 💼 [LinkedIn](https://www.linkedin.com/in/cezarsas)
-- 📄 [Google Scholar](https://scholar.google.com/citations?user=XTTwzgwAAAAJ)
+🛠️ Tech Stack:
+Python • PyTorch • Hugging Face • LangChain • LangGraph • Qdrant • MongoDB • Docker • ZenML
 
----
+📂 Featured Projects:
+- **AutoFL** – Semantic annotation of software files and packages
+- **ScientificPapersRAG** – RAG pipeline for querying research papers with semantic search
 
-I'm always open to collaboration and discussions about exciting projects! Feel free to reach out or check out my work. 😊
+🌐 Connect with me:
+[LinkedIn](https://linkedin.com/in/cezarsas) • [Google Scholar]([https://scholar.google.com/...](https://scholar.google.it/citations?user=XTTwzgwAAAAJ&hl=en))
+
+I’m open to collaboration and roles in **AI/ML, applied NLP**, and **LLM-powered systems** — especially where research and engineering come together.
