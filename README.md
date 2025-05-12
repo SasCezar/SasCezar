@@ -14,6 +14,6 @@ Python • PyTorch • Hugging Face • LangChain • LangGraph • Qdrant • M
 - **ScientificPapersRAG** – RAG pipeline for querying research papers with semantic search
 
 🌐 Connect with me:
-[LinkedIn](https://linkedin.com/in/cezarsas) • [Google Scholar]([https://scholar.google.com/...](https://scholar.google.it/citations?user=XTTwzgwAAAAJ&hl=en))
+[LinkedIn](https://linkedin.com/in/cezarsas) • [Google Scholar](https://scholar.google.it/citations?user=XTTwzgwAAAAJ&hl=en)
 
 I’m open to collaboration and roles in **AI/ML, applied NLP**, and **LLM-powered systems** — especially where research and engineering come together.
