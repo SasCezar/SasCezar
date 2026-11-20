@@ -41,9 +41,9 @@ A lightweight Python framework for building multi-agent systems that communicate
 <td width="50%" valign="top">
 
 ### [code-theseus](https://github.com/SasCezar/code-theseus)
-Reverse-engineers software back through its whole life: from code to design, to requirements, to the original idea.
+Turns real codebases into training ground for coding agents: reconstructs the design, requirements and original idea behind each project, so agents can learn to plan software before they write it.
 
-`software engineering` `LLMs` `datasets`
+`coding agents` `software design` `datasets`
 
 </td>
 </tr>
