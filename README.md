@@ -43,7 +43,7 @@ A lightweight Python framework for building multi-agent systems that communicate
 ### [code-theseus](https://github.com/SasCezar/code-theseus)
 Turns real codebases into training ground for coding agents: reconstructs the design, requirements and original idea behind each project, so agents can learn to plan software before they write it.
 
-`coding agents` `software design` `datasets`
+`agents` `software engineering` `LLMs` `datasets`
 
 </td>
 </tr>
