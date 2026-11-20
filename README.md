@@ -35,7 +35,7 @@ I'm an **AI Researcher at [IDSIA](https://www.idsia.ch/)** in Lugano, where I de
 ### [ant-ai](https://github.com/idea-idsia/ant-ai)
 A lightweight Python framework for building multi-agent systems that communicate over the A2A protocol.
 
-`multi-agent` `A2A` `MCP`
+`multi-agent` `A2A` `MCP` `ACP`
 
 </td>
 <td width="50%" valign="top">
